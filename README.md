@@ -1,0 +1,4 @@
+# LazyTool
+.
+WELCOME to DxTmaster
+.
