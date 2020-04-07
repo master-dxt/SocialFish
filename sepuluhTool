@@ -198,7 +198,5 @@ exit
 *) echo "Sorry, Your choices it's not already [LOL]"
 esac
 done
-done
-
 
 #[Trima Kasih]
